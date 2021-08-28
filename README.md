@@ -8,10 +8,10 @@ I wrote this because I wasn't able to get [indicator-kdeconnect](https://github.
 
 This is simply 1 python file. Run it with `python indicator.py`
 
-#Disclaimer
+## Disclaimer
 
 My knowledge of python is extremely limited. This is my first python project. It's extremely simple and only up here for posterity. I welcome pull requests!
 
-#To Do
+## To Do
 
 This needs an icon, and it needs to be built as an executable. I welcome pull reuqests for both of these.
