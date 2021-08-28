@@ -1,5 +1,7 @@
 # simple-kdeconnectindicator
 
+![Screenshot](screenshot.png)
+
 Very simple appindicator for KDE Connect
 
 I wrote this because I wasn't able to get [indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect) working.
